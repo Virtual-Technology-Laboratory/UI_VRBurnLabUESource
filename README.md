@@ -6,3 +6,5 @@ Link to external build [itch.io APK ZIP](https://vtd-jcooper.itch.io/uivirtualbu
 
 The source project files for our VR Burn Lab developed for the Oculus Quest 2
 Made with Unreal Engine 4.27
+
+This material is based upon work supported by the National Science Foundation under Grant No. (1520873).
